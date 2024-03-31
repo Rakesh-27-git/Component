@@ -13,7 +13,7 @@ const Button = () => {
     >
       Buy Now
       <span
-        className=" transition duration-300 hover:translate-x-[3px]"
+        className=" transition duration-300 "
         style={{ transform: ishover ? "translateX(3px)" : "translateX(0)" }}
       >
         <HiLightningBolt />

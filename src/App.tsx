@@ -1,5 +1,5 @@
 // import Video from "./components/video/Video";
-// import Card from "./components/card/Card"
+// import Card from "./components/card/Card";
 import Button from "./components/button/Button";
 
 const App: React.FC = () => {
@@ -21,7 +21,7 @@ const App: React.FC = () => {
     //   <Card/>
     // </div>
 
-    // Button Component
+    // button
 
     <Button />
   );
