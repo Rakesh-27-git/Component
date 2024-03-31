@@ -1,5 +1,6 @@
 // import Video from "./components/video/Video";
-import Card from "./components/card/Card"
+// import Card from "./components/card/Card"
+import Button from "./components/button/Button";
 
 const App: React.FC = () => {
   return (
@@ -16,9 +17,13 @@ const App: React.FC = () => {
 
     // card component
 
-    <div>
-      <Card/>
-    </div>
+    // <div>
+    //   <Card/>
+    // </div>
+
+    // Button Component
+
+    <Button />
   );
 };
 
